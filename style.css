@@ -35,20 +35,25 @@ body {
 .intro {
     margin-top: 100px;
     color:red;
+    background-color: red;
 }
 
 .left {
     color: aqua;
+    background-color: aqua;
 }
 
 .right {
     color: orange;
+    background-color: orange;
 }
 
 .top {
     color: yellow;
+    background-color: yellow;
 }
 
 .bottom {
     color: green;
+    background-color: green;
 }
